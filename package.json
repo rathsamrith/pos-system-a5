@@ -1,0 +1,9 @@
+{
+  "name": "rcr-pos",
+  "version": "0.2.0",
+  "private": true,
+  "description": "RCR Mart point-of-sale mockup — vanilla JS, no build step",
+  "scripts": {
+    "start": "npx --yes serve -l 5173 ."
+  }
+}
